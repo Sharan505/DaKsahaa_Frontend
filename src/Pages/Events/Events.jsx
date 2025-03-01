@@ -23,7 +23,7 @@ import Tech13 from "../../assets/EventsImages/EventDetails/TechnicalImages/mech.
 import Tech14 from "../../assets/EventsImages/EventDetails/TechnicalImages/pitch.png"
 import Tech15 from "../../assets/EventsImages/EventDetails/TechnicalImages/tex.png"
 import Tech16 from "../../assets/EventsImages/EventDetails/TechnicalImages/Ai4.png"
-import Tech17 from "../../assets/EventsImages/EventDetails/TechnicalImages/VLSI.png"
+import Tech17 from "../../assets/EventsImages/EventDetails/TechnicalImages/vlsi.png"
 
 import Nontech1 from "../../assets/EventsImages/EventDetails/Nontech/ComputerScienceandBusinessSystem.png"
 import Nontech2 from "../../assets/EventsImages/EventDetails/Nontech/ComputerScienceandEngineering.png"
